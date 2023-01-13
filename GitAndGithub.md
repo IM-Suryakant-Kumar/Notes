@@ -48,7 +48,7 @@
 
   ###### WORKING :
 
-    ![working](images/CheckingOverTime.png)
+    ![CheckingOverTime](https://user-images.githubusercontent.com/66691162/212270290-0116201e-f7cb-4b36-9e19-62bff0ea2b9c.png)
 
   ###### PROPERTIES :
 
@@ -59,15 +59,14 @@
 
   ###### 3 STATES OF FILE IN GIT :
 
-   ![Working tree](images/WorkingTree.png)
+   ![WorkingTree](https://user-images.githubusercontent.com/66691162/212270600-597c3827-a3a1-4285-9de7-f54745aa0219.png)
 
 ---
 
 ##### LIFE CYCLE OF GIT :
 
-![LifeCycle](images/LifecycleOfGit.png)
+   ![LifecycleOfGit](https://user-images.githubusercontent.com/66691162/212270658-dc9fe4f0-2655-43ed-8a58-8c59a285bcdf.png)
 
----
 
 ##### GIT SETUP :
 
@@ -253,7 +252,8 @@
 
   - GIT DIAGRAM :
 
-    ![workflow](./images/workflow.png)
+    ![workflow](https://user-images.githubusercontent.com/66691162/212271042-7b2e3be4-eafd-4532-bd0a-dca89d45355c.png)
+
 
 ---
 
