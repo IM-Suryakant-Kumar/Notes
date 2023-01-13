@@ -48,7 +48,7 @@
 
   ###### WORKING :
 
-    ![working](./images/CheckingOverTime.png)
+    ![working](images/CheckingOverTime.png)
 
   ###### PROPERTIES :
 
@@ -59,13 +59,13 @@
 
   ###### 3 STATES OF FILE IN GIT :
 
-   ![Working tree](./images/WorkingTree.png)
+   ![Working tree](images/WorkingTree.png)
 
 ---
 
 ##### LIFE CYCLE OF GIT :
 
-![LifeCycle](./images/LifecycleOfGit.png)
+![LifeCycle](images/LifecycleOfGit.png)
 
 ---
 
